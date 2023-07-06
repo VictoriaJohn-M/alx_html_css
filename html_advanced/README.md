@@ -1,0 +1,1 @@
+For this html task, I am going to design a  beautiful web page although, it is going to purely be in html. Furthermore, I have to utiize Figma. This task is dynamic, but interesting.
